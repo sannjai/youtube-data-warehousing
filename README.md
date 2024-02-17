@@ -49,7 +49,7 @@ Harvest comments, replies, and engagement metrics for each video.
 Download thumbnails and additional images associated with videos and channels.
 
 # 2.Data Warehousing:
-# Relational Database (PostgreSQL):
+# Relational Database (MySQL):
 Design a schema to store video and channel information in a structured manner.
 Implement data normalization to reduce redundancy and ensure data consistency.
 Create tables for video metadata, channel details, comments, and engagement metrics.
